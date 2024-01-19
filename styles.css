@@ -1,0 +1,21 @@
+
+
+h1{
+    color: red;
+}
+
+.black{
+    color: black;
+}
+
+
+
+@media screen and (max-width: 600px){
+    h1{
+        color: blue;
+    }
+
+    .btn{
+        display: none;
+    }
+}
